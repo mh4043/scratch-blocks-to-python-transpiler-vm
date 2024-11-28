@@ -44,7 +44,7 @@ How to connect these two repositores is described below.
    npm link scratch-vm
    ```
    This installs the packages and links the two folders together.
-6. To run the server, run the following command:
+6. To run the server, run the following command from folder "scratch-blocks-to-python-transpiler-gui":
    ```bash
    npm start
    ```
